@@ -1,0 +1,15 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Environments
+.venv/
+venv/
+ENV/
+
+# Scraped Data
+*.csv
+*.xlsx
+
+# Local settings
+.env
